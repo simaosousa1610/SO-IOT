@@ -1,6 +1,5 @@
-# projeto-sistemas-operativos
 
-# Projeto Sistemas Operativos
+# Operative Systems Project - IOT
 
 This project is a system operations project developed in C.
 
